@@ -1,3 +1,10 @@
+% Blanca Rivera
+% rivera222@rowan.edu
+% Matlab Programming 
+% Assignment 2
+% Task 2: Simple Code Encryption 
+% 10/18/2024
+
 function output= caesar_cipher(inputStr,shift)
    output='';
 
