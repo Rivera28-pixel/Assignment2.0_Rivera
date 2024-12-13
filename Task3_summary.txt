@@ -1,0 +1,3 @@
+the average temperature is 24.300000 
+ the average humidity is 70.000000 
+ the toal precip is 50.000000 
