@@ -1,3 +1,10 @@
+% Blanca Rivera
+% rivera222@rowan.edu
+% Matlab Programming 
+% Assignment 2
+% Task 3: Weather Data Analysis
+% 10/18/2024
+
 data= readcell('weather_data.txt', 'Delimiter', ',')%reads the data and makes a cell array displaying all of it in rows and columns
 
 
